@@ -5,8 +5,8 @@
 - 支持**背景整体模糊**和**卡片模糊**，可通过 CSS 切换。  
 - 使用**原生 HTML、CSS、JS**，未使用框架或插件。  
 
-**GitHub**：[https://github.com/ZYYO666/homepage](https://github.com/ZYYO666/homepage)  
-**QQ群下载**：560938976  
+**GitHub**htt：[https://github.com/Sigmafzbbbb/Sigmafzbbbb1145/](https://github.com/Sigmafzbbbb/Sigmafzbbbb1145/)  
+**QQ群**：701086710  
 
 **后续计划**：  
 - 增加主页时钟  
@@ -89,11 +89,5 @@
 - - 替换 SVG 时需去除宽高信息和fill 信息，才能正常使用。
 
 > skills 图标：[skill-icons](https://github.com/tandpfun/skill-icons) 这个开源项目
-
-
-
-- ## Star History
-
-[![Star History Chart](https://api.star-history.com/svg?repos=ZYYO666/homepage&type=Date)](https://star-history.com/#ZYYO666/homepage&Date)
 
 
