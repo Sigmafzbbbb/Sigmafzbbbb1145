@@ -48,7 +48,7 @@
 /*卡片模糊背景＋黑色透明卡片+白色svg**/
 html {
     --name: 主题1;
-    --main_bg_color: url(../img/background.jpg);
+    --main_bg_color: <img src="https://www.dmoe.cc/random.php" style="max-width: 100%; max-height: 100%;">;
     --main_text_color: #eeeeee;
     --gradient: linear-gradient(120deg, #bd34fe, #e0321b 30%, #41d1ff 60%);
     --purple_text_color: #747bff;
@@ -59,7 +59,7 @@ html {
     --item_left_text_color: #ffffff;
     --footer_text_color: #ffffff;
     --left_tag_item: rgb(27 42 57 / 20%);
-    --card_filter: 15px;
+    --card_filter: 0px;
     --back_filter: 0px;
     --back_filter_color: #00000030;
      --fill:#ffffff;
@@ -144,7 +144,7 @@ html {
     --footer_text_color: #ffffff;
     --left_tag_item: rgb(27 42 57 / 20%);
     --card_filter: 0px;
-    --back_filter: 19px;
+    --back_filter: 0px;
     --back_filter_color: #00000030;
     --fill:#ffffff;
 }
